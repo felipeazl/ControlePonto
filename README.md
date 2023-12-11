@@ -33,15 +33,3 @@ php artisan key:generate
 php artisan migrate
 ```
  
-
-### 💻 Demo
-
-Funcionário: Registro do ponto (Entrada e Saída), correções de registros e justificativas.
-
-Supervisor: Registro de funcionários, Aprovação/Rejeição de ponto, Relatórios de presença e horas
-
-https://pontoeletronico.ilab4.me
-
-### 📄 Licença
-
-Este projeto está sob a licença MIT
